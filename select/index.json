@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "風がふいて",
+  "base_artist": "ザ・おめでたズ",
+  "createdAt": "2026-02-27T07:35:54.666588Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風がふいて",
+      "artist": "ザ・おめでたズ",
+      "has_synced": false,
+      "path": "select/pl_01_風がふいて_ザ・おめでたズ.txt"
+    }
+  ]
+}
